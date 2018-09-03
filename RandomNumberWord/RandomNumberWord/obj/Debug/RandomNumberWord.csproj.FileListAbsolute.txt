@@ -1,0 +1,7 @@
+C:\Users\KKYau\source\repos\RandomNumberWord\RandomNumberWord\obj\Debug\RandomNumberWord.csprojAssemblyReference.cache
+C:\Users\KKYau\source\repos\RandomNumberWord\RandomNumberWord\obj\Debug\RandomNumberWord.csproj.CoreCompileInputs.cache
+C:\Users\KKYau\source\repos\RandomNumberWord\RandomNumberWord\bin\Debug\RandomNumberWord.exe.config
+C:\Users\KKYau\source\repos\RandomNumberWord\RandomNumberWord\bin\Debug\RandomNumberWord.exe
+C:\Users\KKYau\source\repos\RandomNumberWord\RandomNumberWord\bin\Debug\RandomNumberWord.pdb
+C:\Users\KKYau\source\repos\RandomNumberWord\RandomNumberWord\obj\Debug\RandomNumberWord.exe
+C:\Users\KKYau\source\repos\RandomNumberWord\RandomNumberWord\obj\Debug\RandomNumberWord.pdb
